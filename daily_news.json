@@ -1,0 +1,100 @@
+[
+  {
+    "source": "Reddit r/artificial",
+    "title": "The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings",
+    "excerpt": "Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it.\n\nI read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connec...",
+    "url": "https://reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/",
+    "image_url": "",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:34.414063",
+    "engagement": 58,
+    "comments": 34
+  },
+  {
+    "source": "Reddit r/artificial",
+    "title": "If you are using ChatGPT, you would probably want an AI policy. [I will not promote]",
+    "excerpt": "I’ve been looking into AI governance for my company recently so wanted to share some of my findings.\n\nApparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%?\n\nEven if you’re only a 5-person te...",
+    "url": "https://reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/",
+    "image_url": "",
+    "category": "model",
+    "timestamp": "2026-03-19T13:45:34.414141",
+    "engagement": 8,
+    "comments": 1
+  },
+  {
+    "source": "Reddit r/artificial",
+    "title": "Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?",
+    "excerpt": "Bear with me on this one because I think it's genuinely unsettled.\n\nIf a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps?\n\nIt matters more t...",
+    "url": "https://reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/",
+    "image_url": "",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:34.414120",
+    "engagement": 1,
+    "comments": 1
+  },
+  {
+    "source": "Reddit r/artificial",
+    "title": "Communication nowadays",
+    "excerpt": "We are, in a sense, large language models ourselves, and much of our communication in this alienated era now takes place through social media: because of this, many of us could be replicated by bots with surprisingly little change to the overall pattern of interaction. Thoughts?",
+    "url": "https://reddit.com/r/artificial/comments/1rxfu8o/communication_nowadays/",
+    "image_url": "",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:34.414169",
+    "engagement": 1,
+    "comments": 10
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2219202029.jpg?w=562",
+    "category": "model",
+    "timestamp": "2026-03-19T13:45:27.044650"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta is having trouble with rogue AI agents",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=563",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:27.044734"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sam Altman’s thank-you to coders draws the memes",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?w=563",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:27.044806"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?w=668",
+    "category": "image",
+    "timestamp": "2026-03-19T13:45:27.044869"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?w=562",
+    "category": "business",
+    "timestamp": "2026-03-19T13:45:27.044930"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "excerpt": "",
+    "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jack-conte-sxsw-1.jpg?w=563",
+    "category": "general",
+    "timestamp": "2026-03-19T13:45:27.044997"
+  }
+]
